@@ -1,0 +1,7 @@
+Hello world!
+This is a new line.Append function taing place!
+Append function taing place!
+Append function taing place!
+First line
+Second line
+Third line
