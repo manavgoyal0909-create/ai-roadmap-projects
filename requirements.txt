@@ -1,0 +1,14 @@
+ipykernel
+numpy
+pandas
+matplotlib
+seaborn
+memory_profiler
+streamlit
+scikit-learn
+langchain
+langchain-community
+langchain-openai
+langchain-groq
+anthropic
+python-dotenv
