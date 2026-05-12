@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<company>
+    <name>TechCorp India</name>
+    <location>Jaipur, Rajasthan</location>
+    <founded>2020</founded>
+    
+    <employees>
+        <employee>
+            <id>001</id>
+            <name>Ravi Sharma</name>
+            <department>Artificial Intelligence</department>
+            <designation>AI Engineer</designation>
+            <salary>75000</salary>
+            <city>Jaipur</city>
+        </employee>
+        
+        <employee>
+            <id>002</id>
+            <name>Priya Singh</name>
+            <department>Data Science</department>
+            <designation>Data Scientist</designation>
+            <salary>80000</salary>
+            <city>Delhi</city>
+        </employee>
+        
+        <employee>
+            <id>003</id>
+            <name>Amit Verma</name>
+            <department>Machine Learning</department>
+            <designation>ML Engineer</designation>
+            <salary>90000</salary>
+            <city>Mumbai</city>
+        </employee>
+        
+        <employee>
+            <id>004</id>
+            <name>Sunita Mehta</name>
+            <department>Artificial Intelligence</department>
+            <designation>AI Strategist</designation>
+            <salary>95000</salary>
+            <city>Jaipur</city>
+        </employee>
+    </employees>
+    
+    <products>
+        <product>
+            <id>P001</id>
+            <name>AI Chatbot Solution</name>
+            <price>50000</price>
+            <category>AI Automation</category>
+        </product>
+        
+        <product>
+            <id>P002</id>
+            <name>RAG Document System</name>
+            <price>75000</price>
+            <category>Document AI</category>
+        </product>
+        
+        <product>
+            <id>P003</id>
+            <name>Voice AI Assistant</name>
+            <price>60000</price>
+            <category>Voice AI</category>
+        </product>
+    </products>
+</company>

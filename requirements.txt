@@ -12,3 +12,6 @@ langchain-openai
 langchain-groq
 anthropic
 python-dotenv
+arxiv
+pymupdf
+wikipedia
